@@ -1,2 +1,3 @@
 ---join the discord server (ZScripts Hub): discord.gg/K3nzcBgEen
 loadstring(game:HttpGet("https://raw.githubusercontent.com/User9681/Roblox-scripts/main/The%20Schoolhouse%20script"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/User9681/Roblox-scripts/main/Baldi's%20Basics%20Remake%20Game%20Script"))();
